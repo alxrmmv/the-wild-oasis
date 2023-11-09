@@ -1,3 +1,3 @@
 # The Wild Oasis
 
-The main project in Ultimate React Course
+This project was created as part of my education on Ultimate React Course by Jonas Schmedtmann.
